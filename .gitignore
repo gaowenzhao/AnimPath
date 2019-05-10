@@ -43,7 +43,6 @@ captures/
 # Keystore files
 #*.jks
 
-
 #some local files
 */.settings/
 */.DS_Store

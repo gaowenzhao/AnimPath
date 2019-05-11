@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
             animation()
         }
     }
-
     private fun animation(){
         val mPath = AmimatorPath()
         val p=5

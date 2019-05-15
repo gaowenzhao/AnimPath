@@ -41,5 +41,7 @@ captures/
 .DS_Store
 */.idea/
 .idea/
+.gradle/
+.gradle
 */apk/
 */apk/*

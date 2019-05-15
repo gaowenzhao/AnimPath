@@ -42,6 +42,6 @@ captures/
 */.idea/
 .idea/
 .gradle/
-.gradle
+*/.gradle/
 */apk/
 */apk/*
